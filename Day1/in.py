@@ -12,5 +12,6 @@ def tupl_str(input):
         str = str + a
     return str
 print(tupl_str(input))
+print("12")
 
 
